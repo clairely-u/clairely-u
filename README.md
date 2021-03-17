@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... music, art, travel, reading, cooking, exercise, and programming!
 - 🌱 I’m currently learning ... JavaScript and Japanese
 - 💞️ I’m looking to collaborate on ... ???
-- 📫 How to reach me ... 
+- 📫 How to reach me ... discord: Nabiya#6172
 
 <!---
 clairely-u/clairely-u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
